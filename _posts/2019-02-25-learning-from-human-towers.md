@@ -1,9 +1,7 @@
 ---
 layout: post
 title: What I learned from the human towers community
-description: Almost three years ago I joined my local team of human towers, now they are my second family.
-It has been one of the best experiences in my life, and I have learned and still learning a lot from it.
-I will share with you what I have learned from the community building point of view, because if we count everyone on every team, it's one of the most significant communities in Catalonia, and one of the most important in the Catalan culture.
+description: Almost three years ago I joined my local team of human towers, now they are my second family. It has been one of the best experiences in my life, and I have learned and still learning a lot from it. I will share with you what I have learned from the community building point of view, because if we count everyone on every team, it's one of the most significant communities in Catalonia, and one of the most important in the Catalan culture.
 ---
 
 # What I learned from the human towers community
