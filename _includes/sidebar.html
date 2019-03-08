@@ -1,15 +1,13 @@
 <div class="sidebar">
   <div class="container-sidebar sidebar-sticky">
     <div class="sidebar-about">
-      <h1>
-          {{ site.title }}
-      </h1>
+      <!-- <img src="/assets/images/logo.svg" alt="logo"> -->
+      <img src="/assets/images/logo_name.svg"  height="75%" width="75%" alt="logo_name">
       <p class="lead">{{ site.description }}</p>
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
-      <a class="sidebar-nav-item" href="https://aboza.dev/workshop/">Workshops</a>
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">HOME</a>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -24,8 +22,10 @@
           {% endif %}
         {% endif %}
       {% endfor %}
+
+      <a class="sidebar-nav-item" href="https://aboza.dev/workshop/">WORKSHOPS</a>
     </nav>
-    <p>Designed with <i class="fas fa-heart"></i></p>
+    <p>Build with <i class="fas fa-heart"></i></p>
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>

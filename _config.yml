@@ -7,9 +7,9 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            abozadev
-tagline:          'Resources'
-description:      'My life experience'
+title:            aboza.dev
+tagline:          ''
+description:      ''
 url:              abozadev.me
 baseurl:
 

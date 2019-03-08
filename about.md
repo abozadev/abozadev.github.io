@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: ABOUT
 ---
 
 <div class="container" style="margin-top:2em; margin-bottom:2em;">
@@ -10,7 +10,7 @@ title: About
     </div>
     <div class="col-md-8 about-head" style="float:left;">
       <h3>August Boza</h3>
-      <h6>Computer Engineer</h6>
+      <h6>Developer Advocate</h6>
     </div>
   </div>
 </div>
