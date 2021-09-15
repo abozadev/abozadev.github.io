@@ -10,14 +10,14 @@ title: ABOUT
     </div>
     <div class="col-md-8 about-head" style="float:left;">
       <h3>August Boza</h3>
-      <h6>Developer Advocate</h6>
+      <h6>Software Engineer</h6>
     </div>
   </div>
 </div>
 
-I'm a computer engineering student from Barcelona. I like to travel around the world while participating in hackathons and photographing cities life.
+I am an embedded software engineer from the sunny streets of Barcelona. I have more than four years of work experience in various positions in software engineering. I love photographing cities' life around the world. My favorite hobbies are playing the piano and american football.
 
-I'm interested in education communities like the student hacker community where I learned most of my code skills. What I like most about these communities is the ability to learn by teaching others.
+I am interested in education communities like student hackers' where I learned most of my code skills. What I like most about these communities is the ability to learn by teaching others.
 
 ---
 
